@@ -16,7 +16,7 @@
  
 </p>
  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ALAMIN-156&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-IMRAN-60&theme=vue)
  
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
  
@@ -24,7 +24,7 @@
  
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
  
-<a href="https://github.com/MR-IMRAN-60"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ALAMIN-156&theme=monokai"></a>
+<a href="https://github.com/MR-IMRAN-60"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR-IMRAN-60&theme=monokai"></a>
  
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
@@ -63,8 +63,8 @@
  
 <table border="1">
   <tr>
-    <td valign="top"><a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=ALAMIN-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="ALAMIN ANCHAR's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/ALAMIN-156/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALAMIN-156&layout=compact&langs_count=10" alt ="Top Languages"/></td>
+    <td valign="top"><a href="https://github.com/MR-IMRAN-60/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=IMRAN-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="IMRAN's GitHub stats"/></td> </a>
+    <td valign="top"> <a href="https://github.com/MR-IMRAN-60/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&langs_count=10" alt ="Top Languages"/></td>
     </a>
   </tr>
    <tr>
