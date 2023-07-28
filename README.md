@@ -68,7 +68,7 @@
     </a>
   </tr>
    <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=ALAMIN-156&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="ALAMIN's GitHub Readme Streak Stats"/> </a>  </td> 
+    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=IMRAN-156&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="IMRAN's GitHub Readme Streak Stats"/> </a>  </td> 
     
   </tr>
 </table>
@@ -76,8 +76,8 @@
  
 ## PROFILE VISITORS
  
-<img src="https://profile-counter.glitch.me/ALAMIN-156/count.svg" />
-<a href="https://api.daily.dev/get?r=ALAMIN-156"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+<img src="https://profile-counter.glitch.me/MR-IMRAN-60/count.svg" />
+<a href="https://api.daily.dev/get?r=MR-IMRAN-60"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
  
 ![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
 ![THANKSCHEERSANDE](https://user-images.githubusercontent.com/20098740/178380759-cba8cee3-8a86-408d-9924-5bcf9ec17375.gif)
