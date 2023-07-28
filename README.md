@@ -11,8 +11,8 @@
  
  𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
  
- <img src="https://profile-counter.glitch.me/ALAMIN-156/count.svg" />
-<a href="https://api.daily.dev/get?r=ALAMIN-156"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
+ <img src="https://profile-counter.glitch.me/MR-IMRAN-60/count.svg" />
+<a href="https://api.daily.dev/get?r=MR-IMRAN-60"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
  
 </p>
  
