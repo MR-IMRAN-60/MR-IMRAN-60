@@ -1,100 +1,62 @@
-![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
-![FOLLOWUSPLEASE](https://user-images.githubusercontent.com/20098740/178381026-1c2ecd91-7eb5-4ace-84b5-c0d16b677cb6.gif)
-![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=23&color=30FF40&background=000000¢er=true&vCenter=true&width=420&height=60&lines=👋+HELLO+WORLD%2C+I'M+IMRAN+HERE+💁;😌+TODAY+I+WILL+TELL+YOU+🤗;💁+PLEASE+FOLLOW+MY+GITHUB+🙏;💻+THANKS+MY+All+FAMILY+MEMBERS+🤙+🥰)](https://git.io/typing-svg)
- 
-<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
- 
-</p>
- 
-<p align="center"> 
- 
- 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃
- 
- <img src="https://profile-counter.glitch.me/MR-IMRAN-60/count.svg" />
-<a href="https://api.daily.dev/get?r=MR-IMRAN-60"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
- 
-</p>
- 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-IMRAN-60&theme=vue)
- 
-<img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
- 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
- 
-<a href="https://github.com/MR-IMRAN-60"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=MR-IMRAN-60&theme=monokai"></a>
- 
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐍𝐀𝐌𝐄 :- IMRAN AHMED
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐀𝐆𝐄 :- 20 
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐄𝐃𝐔𝐂𝐀𝐓𝐈𝐎𝐍 :- DIPLOMA IN ENGINEERING 
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐋𝐎𝐕𝐄𝐑 :- PYTHON AND JAVA 👩‍💻
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐑𝐄𝐋𝐈𝐆𝐈𝐎𝐍 :- ISLAM 💚
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 :- [IMRAN AHMED](https://www.facebook.com/Emranoriginal21) 
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐅𝐀𝐂𝐄𝐁𝐎𝐎𝐊 𝐏𝐀𝐆𝐄 :- [IMRAN AHMED](https://www.facebook.com) 
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-- 🔰 𝐆𝐈𝐓𝐇𝐔𝐁 :- [MR-IMRAN-60](https://github.com/MR-IMRAN-60) 
- 
-<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
- 
-<table border="1">
-  <tr>
-    <td valign="top"><a href="https://github.com/MR-IMRAN-60/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=IMRAN-156&count_private=true&show_icons=true&icon_color=FFA500&title_color=f4791f&bg_color=0,03071e,0F2027,03071e&text_color=abcdef&border_radius=10" alt ="IMRAN's GitHub stats"/></td> </a>
-    <td valign="top"> <a href="https://github.com/MR-IMRAN-60/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&langs_count=10" alt ="Top Languages"/></td>
-    </a>
-  </tr>
-   <tr>
-    <td colspan="2" align="center"> <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=IMRAN-156&hide_border=true&background=f6f8fa&stroke=001427&ring=e36414&fire=e36414&currStreakNum=03045e&sideNums=03045e&currStreakLabel=03045e&sideLabels=240046&dates=fb5607&date_format=j%20M%5B%20Y%5D" alt ="IMRAN's GitHub Readme Streak Stats"/> </a>  </td> 
-    
-  </tr>
-</table>
+<body>
+  <center>
+<h1 align="center">𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮</h1>
 <br>
- 
-## PROFILE VISITORS
- 
-<img src="https://profile-counter.glitch.me/MR-IMRAN-60/count.svg" />
-<a href="https://api.daily.dev/get?r=MR-IMRAN-60"><img src="https://opencollective.com/vuejs/contributors.svg?width=900" /></a>
- 
-![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png)
-![THANKSCHEERSANDE](https://user-images.githubusercontent.com/20098740/178380759-cba8cee3-8a86-408d-9924-5bcf9ec17375.gif)
-![your_text (1)](https://user-images.githubusercontent.com/20098740/178626261-2bbb5de6-2290-47d6-abc0-729eb0e330e4.png) 
- 
+<div align="center">
+  
+![MR IMRAN](./shadow.gif)
+
+<h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
+</div>
+<div align="center">
+  <!-- <img src="https://i.imgur.com/jx17oHT.gif"> -->
+</div>
+<div>
+  <div align="center">
+    <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
+
+<dl>
+    <dt align="left"><strong>Name:</strong></dt>
+    <dd align="left">Iron Man</dd>
+    <dt align="left">Loves:</dt>
+    <dd align="left">Anime, Manga, Games</dd>
+    <dt align="left">Hobbies:</dt>
+    <dd align="left">Coding,
+      Gaming,
+      Reading</dd>
+</dl>
+<br>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fe2ev5ldx3dlfb5t2qszogktce&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://ironmanff.vercel.app)
+
+<br>
+<div align="center">
+    <h1> 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓜𝓮 </h1>
+</div>
+<p align='center'>
+  <a href="https://ironmanff.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
+  <a href="https://instagram.com/sedboy.am"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/IronManOfc"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+    <a href="https://wa.me/4915252819677"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
+</p>
+<br>
+
+<div align="center">
+    <h1> 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮 </h1>
+</div>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/ironm4n">
+    <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="60" width="230" style="margin-top: 10px;">
+  </a>
+</div>
 
 
+<br>
+<div align="center">
+    <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
+</div>
+<img src="https://count.getloli.com/get/@:IRON-M4N?theme=moebooru" alt="IRON-M4N" />
 
+_______________________
 
-
-
-
-
-
-
-
-
-
-
-
+![Animation](https://raw.githubusercontent.com/IRON-M4N/IRON-M4N/output/github-contribution-grid-snake-dark.svg)
