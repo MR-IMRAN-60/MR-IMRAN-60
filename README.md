@@ -44,11 +44,7 @@
 <div align="center">
     <h1> 𝓢𝓾𝓹𝓹𝓸𝓻𝓽 𝓜𝓮 </h1>
 </div>
-<div align="center">
-  <a href="https://www.buymeacoffee.com/ironm4n">
-    <img src="https://i.ibb.co/KNnhcvX/bmc-button.png" alt="Buy Me Coffee" height="60" width="230" style="margin-top: 10px;">
-  </a>
-</div>
+
 
 
 <br>
