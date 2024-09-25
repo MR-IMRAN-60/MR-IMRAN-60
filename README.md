@@ -4,7 +4,7 @@
 <br>
 <div align="center">
   
-![MR IMRAN](./undefined - Imgur.jpg)
+![MR IMRAN](./IMRAN1.jpg)
 
 <h1 align="center">  𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 </h1>
 </div>
