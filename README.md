@@ -51,7 +51,7 @@
 <div align="center">
     <h1> 𝓣𝓱𝓪𝓷𝓴𝓼 𝓕𝓸𝓻 𝓡𝓮𝓪𝓭𝓲𝓷𝓰 </h1>
 </div>
-<img src="https://count.getloli.com/get/@:IRON-M4N?theme=moebooru" alt="IRON-M4N" />
+<img src="https://count.getloli.com/get/@:IM-R4N?theme=moebooru" alt="IM-R4N" />
 
 _______________________
 
