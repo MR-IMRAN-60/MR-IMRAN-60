@@ -17,7 +17,7 @@
 
 <dl>
     <dt align="left"><strong>Name:</strong></dt>
-    <dd align="left">Mohammad Imran</dd>
+    <dd align="left">мσнαммα∂ ιмяαη</dd>
     <dt align="left">Loves:</dt>
     <dd align="left">Anime, Manga, Games</dd>
     <dt align="left">Hobbies:</dt>
@@ -35,9 +35,9 @@
 </div>
 <p align='center'>
   <a href="https://accesscardzbd.com/Mohammad-Imran"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
-  <a href="https://instagram.com/sedboy.am"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
-  <a href="https://t.me/IronManOfc"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
-    <a href="https://wa.me/4915252819677"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
+  <a href="https://instagram.com/imran.ahmed099"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://t.me/Imran_bhai60"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+    <a href="https://wa.me/+8801689903267"><img src="https://img.shields.io/badge/WHATSAPP-2e3440?style=for-the-badge"/></a>
 </p>
 <br>
 
