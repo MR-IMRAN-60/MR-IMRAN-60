@@ -46,7 +46,7 @@
 </div>
 
 
-## My Github Stats:
+## 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼:
 
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-IMRAN-60&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad Imran GitHub status" />
@@ -57,7 +57,7 @@
 
 ---
 
-### Top Usage Languages:
+### 𝓜𝔂 𝓖𝓲𝓽𝓱𝓾𝓫 𝓢𝓽𝓪𝓽𝓼𝓣𝓸𝓹 𝓤𝓼𝓪𝓰𝓮 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼:
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
 
