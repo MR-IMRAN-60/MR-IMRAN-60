@@ -46,6 +46,24 @@
 </div>
 
 
+## My Github Stats:
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MR-IMRAN-60&show_icons=true&include_all_commits=true&theme=radical&hide_border=false" alt="Mohammad Imran GitHub status" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MR-IMRAN-60&theme=algolia" alt="MOHAMMAD-IMRAN" />
+</p>
+
+---
+
+### Top Usage Languages:
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MR-IMRAN-60&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+
+---
+
+
 
 <br>
 <div align="center">
